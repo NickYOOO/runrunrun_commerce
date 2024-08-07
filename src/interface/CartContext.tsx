@@ -1,3 +1,4 @@
+//src/contexts/CartContext.tsx
 import React, { createContext, ReactNode, useContext, useState } from 'react';
 type CartItem = {
   id: string;
